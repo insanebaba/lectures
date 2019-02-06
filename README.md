@@ -1,3 +1,7 @@
+# Deep learning course from Google 
+https://cloud.google.com/blog/products/gcp/learn-tensorflow-and-deep-learning-without-a-phd
+
+
 # Preamble
 This repository contains the lecture slides and course description for the [Deep Natural Language Processing](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) course offered in Hilary Term 2017 at the University of Oxford. 
 
